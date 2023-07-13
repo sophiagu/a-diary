@@ -1,0 +1,5 @@
+#### A growing list of _weird_ thoughts
+
+- Every chance occurrence is deterministic, and every determinism unravels by chance. The world might have begun as an amorphous cloud of uncertainty, but through an infinite array of “random” observations and expressions of will, these numerous uncertain universes had to “collapse”, ultimately coalescing into a singular, more defined entity. This paradox can be likened to a polynomial whose coefficients were initially random, but once enough deterministic observations are made, it is compelled to assume a defined shape.
+
+- In my dream, I encountered an intricate geometric maze that despite its finite appearance, offered an infinite exploration without ever retracing my steps. The memory of its detailed structure is elusive now, yet I am certain it was not a fractal.

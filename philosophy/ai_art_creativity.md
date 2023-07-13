@@ -1,0 +1,11 @@
+### Generative AI x Art x Creativity
+
+While AI continues to refine its ability to "interpolate" or link together existing knowledge, there's no empirical evidence to suggest it's capable of "extrapolation"—reaching beyond the known into the realm of the unprecedented, or as I like to call it, pulling rabbits out of an empty hat. I sense that the task of forging new paths hasn't really fallen within the reach of AI yet.
+
+Take the AI "creativity" showcased in generative models like <i>DALL-E</i>, for example. Sure, AI can whip up what seems to be "original" art, but let's pull back the curtain. The images it generates are based on human-crafted text. So, who's the real artist here? The AI is merely a middleman, translating our text into images. It's like a creative blender, combining pre-existing art or text concepts into a seemingly fresh smoothie. But the ingredients aren't new.
+
+
+Drawing parallels to a human artist's mind makes this point more nuanced. Let's imagine, for a moment, that I was an artist (perhaps I am). I frequent museums, absorbing the creativity of others before returning to my studio to create my own pieces. Isn't my brain "interpolating", mixing together the art I've seen when I put my paintbrush to canvas? It must be doing something like that to some degree. But there's also an undeniable part of me, a uniquely "me" flavor, that infuses into my work—my emotions, my idiosyncratic techniques, and my perspectives. This unquantifiable element doesn't stem from the art I've seen, it emanates from the inner soul of me and gets projected onto my canvas in my distinctive style. This, in my view, is the "extrapolation"—the projection of my singular self onto the broader world.
+
+#### edit: updates after attending CVPR 2023
+On _Vision, Language, and Creativity_, the ideas shared by the panelist Irani echoes my viewpoints here. Irani also touched upon an intriguing point about the difference between human and machine learning. Humans, after a few examples, can start "creating" art, while machines need a plethora of data to learn. This disparity, she suggested, is due to humans possessing an artistic “prior”. I concur and would go a step further to speculate that this "prior" is associated with our genes, which have evolved over millennia.

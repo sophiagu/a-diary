@@ -1,0 +1,3 @@
+### Does finger length intrigue musicians and gamers alike?
+
+Do people who play keyboards or string instruments naturally pay more attention to others' long fingers? Particularly when they are engaged in activities that demand meticulous hand movements - gaming, for instance, definitely counts in my book! Citing personal experiences, I used to play a myriad of rhythm games, which honed my finger dexterity. And my college guitar instructor was more obsessed with my fingers than with my actual guitar playing skill. It's intriguing to observe that engaging with music or games, one's attention inevitably shifts to the physical traits that are so intimately tied to our craft.
