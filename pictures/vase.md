@@ -1,0 +1,1 @@
+<img width="49%" src="https://github.com/sophiagu/a-diary/assets/14866379/cce28d72-ec52-4338-98ac-c16c3d7f8c76">

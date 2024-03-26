@@ -1,0 +1,1 @@
+I always tear up like a baby whenever I hear this song, but [this cello version](https://youtu.be/-mb9jlbiVF4?si=Ywl2jjeX3ZF9tU_Z) is so beautiful and it doesn't make me cry 😂 There are also other pieces played by the duo that are truly exquisite.
